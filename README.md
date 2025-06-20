@@ -6,4 +6,4 @@
 - [ ] Majority Element | [InterviewBit](https://www.interviewbit.com/problems/majority-element/) | Solution [c++](majority-element.cpp)
 
 ## Greedy
-- [ ] Best Time to Buy and Sell Stocks II | [InterviewBit](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/) | Solution [c++](best-time-to-buy-and-sell-stocks-ii.cpp)
+- [x] Best Time to Buy and Sell Stocks II | [InterviewBit](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/) | Solution [c++](best-time-to-buy-and-sell-stocks-ii.cpp)
