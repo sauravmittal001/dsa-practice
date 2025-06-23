@@ -7,3 +7,6 @@
 
 ## Greedy
 - [x] Best Time to Buy and Sell Stocks II | [InterviewBit](https://www.interviewbit.com/problems/best-time-to-buy-and-sell-stocks-ii/) | Solution [c++](best-time-to-buy-and-sell-stocks-ii.cpp)
+
+## Graph
+- [x] Detect cycle in a Directed graph | [GFG](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | Solution [c++](detect-cycle-in-a-directed-graph.cpp)
