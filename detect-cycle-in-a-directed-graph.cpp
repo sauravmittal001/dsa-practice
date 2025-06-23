@@ -12,7 +12,7 @@ class Solution {
             out_edges[child].push_back(parent);
         }
         
-        priority_queue<int> pq;
+        priority_queue<int> pq; // using queue or stack will topo sort but with different ordering
         vector<int> visited(V, 0);
         
         for (int i = 0; i < V; i++) {
