@@ -11,7 +11,7 @@ public:
             if (visited[i]) {
                 continue;
             }
-            queue<pair<int, int> > q;
+            queue<pair<int, int> > q;    // using a stack will traverse graph in a dfs way
             q.push(make_pair(i, -1));
             visited[i] = 1;
             while(!q.empty()) {
